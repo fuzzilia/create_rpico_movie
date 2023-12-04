@@ -1,0 +1,13 @@
+const String MODE_64BIT_ROT = "mode_64rot";
+const String MODE_64BIT     = "mode_64";
+
+const String MOVIE_MODE = {0};
+const int MOVIE_WIDTH   = {1};
+const int MOVIE_HEIGHT  = {2};
+const int FRAME_RATE    = {3};
+const unsigned int MAX_FRAME = {4};
+const int MOVIE_X_POS   = {5};
+
+const long long unsigned int MOVIE_ARRAY[MAX_FRAME][{6}] = {{
+{7}
+}};
