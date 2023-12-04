@@ -1,0 +1,2 @@
+# create_rpico_movie
+RPicoBoyで動画ファイルを再生するためのデータファイルを作成するツールです。
