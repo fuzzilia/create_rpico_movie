@@ -70,7 +70,7 @@ python createRPicoMovieGui.py
 ## LICENSE
 
 本ライセンスはLICENSEファイルを参照してください。
-- https://github.com/fuzzilia/create_rpico_movie/blob/LICENSE
+- https://github.com/fuzzilia/create_rpico_movie/blob/master/LICENSE
 
 使用している各ライブラリのライセンスは以下を参照してください。
 
