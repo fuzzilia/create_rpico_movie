@@ -44,8 +44,8 @@ RPicoBoyで動画ファイルを再生するためのデータファイルを作
 |名称|バージョン|
 |---|---|
 |Python|3.10.8|
+|NumPy|1.24.3|
 |OpenCV|4.7.0|
-|numpy|1.24.3|
 |PySide6|6.5.1|
 |pyinstaller|5.11.0|
 
@@ -69,6 +69,19 @@ python createRPicoMovieGui.py
 
 ## LICENSE
 
-本ソースコードのライセンスは「〇〇」です。
+本ライセンスはLICENSEファイルを参照してください。
+- https://github.com/fuzzilia/create_rpico_movie/blob/LICENSE
 
-使用ライブラリの各ライセンスは「`lib_license`」ディレクトリ内を参照してください。
+使用している各ライブラリのライセンスは以下を参照してください。
+
+- NumPy
+  - https://github.com/numpy/numpy/blob/main/LICENSE.txt
+- OpenCV
+  - https://github.com/opencv/opencv/blob/master/LICENSE
+- PySide6
+  - https://wiki.qt.io/Qt_for_Python
+  - https://github.com/pyside/pyside-setup/tree/dev/LICENSES
+- pyinstaller
+  - https://github.com/pyinstaller/pyinstaller/wiki/FAQ
+  - https://github.com/pyinstaller/pyinstaller?tab=License-1-ov-file#readme
+

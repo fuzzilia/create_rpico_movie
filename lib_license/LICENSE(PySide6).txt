@@ -1,2 +1,0 @@
-[LICENSE_URL]
-https://www.qt.io/licensing
